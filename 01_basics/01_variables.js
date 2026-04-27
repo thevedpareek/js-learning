@@ -8,3 +8,9 @@ let accountState;
 
 
 console.log(accountState);
+
+
+let isBoolean = "ved";
+
+let booleanIsLoggedIn = Boolean(isBoolean);
+console.log(booleanIsLoggedIn);
